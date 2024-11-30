@@ -1,6 +1,6 @@
 # Abdullah Shaikh - Android & Flutter Developer
 
-Welcome to my GitHub profile! I'm a passionate and experienced *Mobile App Developer* with over 2 years of experience specializing in *Android* and *Flutter* development. Currently, I'm working at *Arshikweb IT Solution, where I focus on building efficient and high-quality mobile applications using **Kotlin, **Java, and **Dart*.
+Welcome to my GitHub profile! I'm a passionate and experienced *Mobile App Developer* with over 2 years of experience specializing in *Android* and *Flutter* development. Currently, I'm working at *Arshikweb IT Solution*, where I focus on building efficient and high-quality mobile applications using **Kotlin**, **Java**, and **Dart**.
 
 Explore my repositories, and feel free to connect with me if you have any questions or collaborations in mind!
 
@@ -23,15 +23,6 @@ Sep 2022 – Present
 - Developed and maintained mobile applications using *Android native* and *Flutter*.
 - Collaborated with cross-functional teams to deliver high-quality solutions.
 - Optimized app performance and troubleshot technical issues.
-
-## 📱 Featured Projects
-
-- *Halsa: A health tracking app utilizing **Google Health Connect API* for monitoring health data.
-- *Halsa (Flutter Version): Migrated the Android app to **Flutter* and added *Apple HealthKit* support.
-- *IQT (Train Maintenance App): Transitioned a Windows app to **iOS* using *Flutter* for train maintenance tracking.
-- *Path Finding App: An **Indoor navigation app* with *Unity* for AR-based navigation on floor plans.
-- *Event Dashboard App: Created an event management dashboard with **Firebase* integration for user authentication.
-- *Tea Counter Application: Developed an **Android app* to manage daily tea and coffee expenses with real-time synchronization.
 
 ## 🎓 Education
 
