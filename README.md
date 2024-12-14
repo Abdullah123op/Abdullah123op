@@ -26,24 +26,19 @@ Sep 2022 – Present
 
 ## 🎓 Education
 
-- *Bachelor of Engineering*  
-  *Silver Oak University*, Ahmedabad (Apr 2021 - Jan 2024)  
-  CPI: 8.41
-- *Diploma in Computer Engineering*  
-  *F.D Institute of Technology (GTU)*, Gandhinagar (Apr 2018 - Mar 2021)  
-  CPI: 9.04
+**Bachelor of Engineering in Computer Engineering**  
+Silver Oak University, Ahmedabad  
+*April 2021 - January 2024*
 
-## 🌍 Languages
+**Diploma in Computer Engineering**  
+Gujarat Technological University  
+*April 2018 - March 2021*
 
-- English
-- Hindi
-- Gujarati
 
 ## 📫 How to Reach Me
 
 - Email: [abshaikh109@gmail.com](mailto:abshaikh109@gmail.com)
 - LinkedIn: [Abdullah Shaikh](https://www.linkedin.com/in/abdullah-shaikh-26368218b/)
-- GitHub: [Abdullah123op](https://github.com/Abdullah123op)
 
 Feel free to explore my work, and don't hesitate to reach out if you're interested in collaborating or discussing new opportunities!
 
